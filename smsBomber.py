@@ -179,4 +179,4 @@ if __name__ == '__main__':
       sys.exit()
 
 
-# Coded By Sepehr ;) My Telegram ID : @x_darkpy_x
+# Coded By SirVariable
