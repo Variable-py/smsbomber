@@ -2,6 +2,8 @@
 
 Strong SmsBomber Using Python . . . . !
 
+you can get another information about it at : [SmsBomber](https://sirvariable.dev/smsBomber.html)
+
 ### Tested with : **cmd, Termux, linux** ###
 
 ## Installation :
