@@ -1,4 +1,3 @@
-#SirVariable
 import os
 import time
 import requests
@@ -6,10 +5,16 @@ from threading import Thread
 from colorama import Fore
 
 os_type = os.name
-if os_type == 'nt':
-	os.system('cls')
-else:
-	os.system('clear')
+
+if os_type != 'nt':
+    os.system("pkg install python")
+    os.system("pip install colorama")
+    os.system("pip install requests")
+    os.system("clear")
+else :
+    os.system("pip install colorama")
+    os.system("pip install requests")
+    os.system("cls")
 
 proxy = {"socks5": "127.0.0.1:9050"}
 
@@ -130,15 +135,17 @@ def SlowPrint(txt):
         print(x, end='', flush=True)
         time.sleep(0.0)
     print()
-SlowPrint(Fore.BLUE + '''
+SlowPrint(Fore.CYAN + '''
 
-███████╗██╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗ █████╗ ██████╗ ██╗     ███████╗
-██╔════╝██║██╔══██╗██║   ██║██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗██║     ██╔════╝
-███████╗██║██████╔╝██║   ██║███████║██████╔╝██║███████║██████╔╝██║     █████╗  
-╚════██║██║██╔══██╗╚██╗ ██╔╝██╔══██║██╔══██╗██║██╔══██║██╔══██╗██║     ██╔══╝  
-███████║██║██║  ██║ ╚████╔╝ ██║  ██║██║  ██║██║██║  ██║██████╔╝███████╗███████╗
-╚══════╝╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝
-                                                                               
+ /$$$$$$$$            /$$$$$$                   
+| $$_____/           /$$__  $$                  
+| $$        /$$$$$$ | $$  \__//$$$$$$  /$$$$$$$ 
+| $$$$$    /$$__  $$| $$$$   |____  $$| $$__  $$
+| $$__/   | $$  \__/| $$_/    /$$$$$$$| $$  \ $$
+| $$      | $$      | $$     /$$__  $$| $$  | $$
+| $$$$$$$$| $$      | $$    |  $$$$$$$| $$  | $$
+|________/|__/      |__/     \_______/|__/  |__/
+                                                                                                                       
 ''')
 
 def SlowPrint(txt):
@@ -148,6 +155,7 @@ def SlowPrint(txt):
     print()
 SlowPrint(Fore.RED + '''
 dev : www.SirVariable.dev
+telegram : @SirVariable
 instagram: @SirVariable
 ''')
 
