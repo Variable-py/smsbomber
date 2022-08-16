@@ -155,7 +155,6 @@ def SlowPrint(txt):
     print()
 SlowPrint(Fore.RED + '''
 dev : www.SirVariable.dev
-telegram : @SirVariable
 instagram: @SirVariable
 ''')
 
