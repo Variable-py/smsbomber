@@ -2,7 +2,7 @@
 
 Strong SmsBomber Using Python . . . . !
 
-you can get another information about it at : [SmsBomber](https://sirvariable.dev/smsBomber.html)
+you can get another information about it at : [SmsBomber](https://Erfanazizkhani.dev/smsBomber.html)
 
 ### Tested with : **cmd, Termux, linux** ###
 
@@ -37,8 +37,8 @@ python smsbomber.py
 
 ------------------
 
-- my Website : [SirVariable.dev](https://SirVariable.dev)
+- my Website : [Erfanazizkhani.dev](https://SirVariable.dev)
 
-- my Telegram : [@SirVariable](https://t.me/SirVariable)
+- my Telegram : [@TheGreatVariable](https://t.me/TheGreatVariable)
 
 - my Instagram : [@SirVariable](https://www.instagram.com/sirvariable/)
