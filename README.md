@@ -28,7 +28,7 @@ cd smsbomber
 
 ```
 
-python smsbomber.py
+python smsBomber.py
 
 ```
 
