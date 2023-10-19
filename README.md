@@ -33,7 +33,7 @@ python smsbomber.py
 ```
 
 ## Images :
-<p align="center"><img src="https://i.imgur.com/7C7hTjv.jpg" width="1078" height="300" alt="SCRIPT"></p>
+<p align="center"><img src="https://i.imgur.com/7C7hTjv.jpg" width="500px" alt="SCRIPT"></p>
 
 ------------------
 
