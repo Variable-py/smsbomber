@@ -37,8 +37,8 @@ python smsBomber.py
 
 ------------------
 
-- my Website : [Erfanazizkhani.dev](https://SirVariable.dev)
+- my Website : [Erfanazizkhani.dev - disabled](https://SirVariable.dev)
 
-- my Telegram : [@TheGreatVariable](https://t.me/TheGreatVariable)
+- my Telegram : [@SirVariable](https://t.me/sirvariable)
 
-- my Instagram : [@SirVariable](https://www.instagram.com/sirvariable/)
+- my Instagram : [@SirVariable - disabled](https://www.instagram.com/sirvariable/)
